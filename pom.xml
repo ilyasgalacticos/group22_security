@@ -17,7 +17,7 @@
         <servlets.version>3.1.0</servlets.version>
         <jsp.version>2.1</jsp.version>
         <jdbc.version>8.0.18</jdbc.version>
-        <hibernate.version>5.4.4.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
 
